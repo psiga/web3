@@ -1,0 +1,79 @@
+body {
+    background-color: #0DcC90;
+}
+
+main {
+    margin: none;
+    border-radius: 10px;
+    height: 600px;
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #0D4C92;
+}
+
+article {
+    text-align: center;
+}
+
+section {
+    margin-left: 25px;
+    
+}
+
+h2 {
+    color: white;
+}
+
+nav {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#photo {
+    border-radius: 10px;
+    margin-top: 30px;
+    width:300px;
+    height: 300px;
+}
+
+.text {
+    width: 300px;
+    font-size: 20px;
+    color: honeydew;
+}
+
+.price {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 25px;
+}
+
+#ETH {
+    color: aqua;
+    word-spacing: 2px;
+}
+
+#day {
+    color: honeydew;
+}
+
+address {
+    margin-top: 20px;
+    display: flex;
+    margin-left: 25px;
+    word-spacing: 3px;
+}
+
+#avatar {
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+    display: inline-block;
+    border: 2px solid white;
+    border-radius: 100px;
+}
+
+.te {
+    margin-top: 5px;
+}
