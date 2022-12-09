@@ -1,0 +1,58 @@
+body {
+    background-color: hsl(0, 0%, 95%);
+}
+
+* {
+    box-sizing: border-box;
+  }
+
+.box {
+    clear: both;
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+}
+
+#first {
+    float: left;
+    width: 33.33%;
+    padding: 50px;
+    background-color: hsl(31, 77%, 52%);
+}
+
+#second {
+    float: left;
+    width: 33.33%;
+    padding: 50px;
+    background-color: hsl(184, 100%, 22%);
+}
+
+#third {
+    float: left;
+    width: 33.33%;
+    padding: 50px;
+    background-color: hsl(179, 100%, 13%);
+}
+
+h1 {
+    text-transform: uppercase;
+    font-weight: 700px;
+    font-family: Lexend Deca;
+    color: hsl(0, 0%, 95%);
+}
+
+p {
+    font-weight: 400px;
+    font-family: Big Shoulders Display;
+    width: 190px;
+    color: hsla(0, 0%, 100%, 0.75);
+}
+
+button {
+    background-color: hsl(0, 0%, 95%);
+    margin-top: 60px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+}
